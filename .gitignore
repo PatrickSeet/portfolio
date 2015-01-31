@@ -53,6 +53,6 @@ docs/_build/
 # PyBuilder
 target/
 
-.local_settings
+.local_settings.py
 .pyc
 .idea
