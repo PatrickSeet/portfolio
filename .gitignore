@@ -54,5 +54,6 @@ docs/_build/
 target/
 
 local_settings.py
-.pyc
 .idea
+*.pyc
+staticfiles
