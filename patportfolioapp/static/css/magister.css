@@ -43,9 +43,9 @@ body {
 	        border-radius: 2px;
 	outline: 0;
 	opacity: 1;
-	-webkit-transition: all .15s;
-	   -moz-transition: all .15s;
-	        transition: all .15s;
+	-webkit-transition: all .25s;
+	   -moz-transition: all .25s;
+	        transition: all .25s;
 	        float: left;
 }
 .navbar-toggle .icon-bar {
