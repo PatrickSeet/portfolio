@@ -366,5 +366,19 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	color: inherit;
 }
 
+#wlink:link {
+    text-decoration: underline;
+}
 
+#wlink:visited {
+    text-decoration: underline;
+}
+
+#wlink:hover {
+    text-decoration: underline;
+}
+
+#wlink:active {
+    text-decoration: underline;
+}
 
